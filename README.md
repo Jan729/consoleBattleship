@@ -8,4 +8,4 @@ Since the original battleship game requires the players to hide their gameboards
 When you run the program, you can access further instructions about how to play the game.
 Have fun!
 
-Note: I got the SetColor function that changes the console text colour from https://www.codewithc.com/change-text-color-in-codeblocks-console-window/ . All credit for that function goes to the author of that page!
+Note: All credit for the SetColor function (that changes the console text colour) goes to https://www.codewithc.com/change-text-color-in-codeblocks-console-window/
